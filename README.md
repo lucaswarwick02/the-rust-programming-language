@@ -2,7 +2,10 @@
 This project is divided into sections, which correspond to the sections of the same names from teh official [Rust Book](https://doc.rust-lang.org/book/), by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
 
 ## 1 - Getting Started
-INCOMPLETE
+[Link to Folder](https://github.com/lucaswarwick02/the-rust-programming-language/tree/main/1-getting-started)
+- **1.1.** Installation
+- **1.2.** Hello, World!
+- **1.3.** Hello, Cargo!
 
 ## 2 - Programming a Guessing Game
 INCOMPLETE
