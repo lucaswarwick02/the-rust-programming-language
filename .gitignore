@@ -10,3 +10,5 @@ Cargo.lock
 **/*.rs.bk
 
 1-getting-started/hello_cargo/target/
+
+2-programming-a-guessing-game/guessing_game/target/
